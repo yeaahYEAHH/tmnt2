@@ -1,0 +1,158 @@
+body{
+    background-color: #083B58; 
+    background-size: cover; 
+    font-family: 'Open Sans';
+    text-align: center;
+    color: white;
+    font-size: 32px;
+}
+
+.banner{
+    position: relative;
+    z-index: -1;
+}
+
+a{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+ul{   
+    list-style: none; 
+    margin-top: -3rem;
+    margin-left: -2.5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+
+.orange{ 
+    width: 480px;
+    height: 126px;
+    background: #FFA800;
+}
+
+.purple{
+    width: 480px;
+    height: 126px;
+    background-color: #345596;
+}
+
+.blue{
+    width: 480px;
+    height: 126px;
+    background-color: #1881BC;  
+}
+
+.red{
+    width: 480px;
+    height: 126px;
+    background-color:#D84444;
+}
+
+button{  
+    margin-top: 40px;
+    text-transform: uppercase;
+    background-color: #3E728F;
+    font-size: 40px;
+    border: none;
+    width: 382px;
+    height: 50px; 
+}
+
+.charactersleft{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    position: relative;
+}
+
+.charactersleft p{
+    background-color: #3E728F;
+    width: 1148px;
+    height: 253px;  
+    margin-left: 20px;
+    margin-top: 42px;
+    margin-bottom: 42px;
+    padding-top: 39px;
+    padding-bottom: 85px;
+    padding-left: 34px;
+    padding-right: 29px;
+    text-align: left;
+}
+
+.charactersrigth{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    position: relative;
+}
+
+.charactersrigth p{
+    background-color: #3E728F;
+    max-width: 1148px;
+    height: 255px;
+    margin-right: 20px;
+    margin-top: 42px;
+    margin-bottom: 42px;
+    padding-top: 39px;
+    padding-bottom: 85px;
+    padding-left: 34px;
+    padding-right: 29px;
+    text-align: left;
+}
+
+.peter{
+    margin-top: -2.9rem;
+    background-color: #3E728F;
+    font-size: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px;
+    width: 1918px;
+    margin-bottom: 1em;
+}
+
+.peter p{
+    padding-top: 35px;
+    padding-bottom: 138px;
+    padding-left: 58px;
+    padding-right: 58px;
+
+}
+
+.tmnt{
+   margin-top: 2em
+}
+
+.mult{   
+    display: inline;
+}
+
+.icon{
+    margin-top: 2em;
+    text-align: center;
+    height: 223px;
+}
+
+.icon img{
+    padding-top: 40px;   
+}
+
+footer p{
+    margin-top: -1em;
+    background-color: #3E728F;
+    height: 40px;
+    width: 1920px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.aga{
+    margin-top: -1em;
+    color: white;
+    height: 60px;
+    width: 1920px;
+}
+
